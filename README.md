@@ -13,4 +13,6 @@ fuckout{"Print system!"}
 fuckout{var1} 
 
 fuckin{"Input system! "}
+
+get_value <<- fuckin{"wow! "}
 ```` 
