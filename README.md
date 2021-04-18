@@ -16,3 +16,4 @@ fuckin{"Input system! "}
 
 get_value <<- fuckin{"wow! "}
 ```` 
+fodase essa porra
